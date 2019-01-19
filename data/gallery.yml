@@ -1,0 +1,8 @@
+enable  : true
+galleryImages :
+  - image : images/gallery/roshni1.jpeg
+  - image : images/gallery/roshni2.jpeg
+  - image : images/gallery/roshni3.jpeg
+  - image : images/gallery/roshni4.jpeg
+  - image : images/gallery/roshni5.jpeg
+  - image : images/gallery/roshni6.jpeg
